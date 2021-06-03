@@ -17,3 +17,8 @@ footer{
 #para4{
     visibility: hidden;
 }
+
+#framebody{
+    margin-top: 250px;
+    text-align: center;
+}
