@@ -1,0 +1,19 @@
+#title{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#hover{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    visibility: hidden;
+}
+
+#para4{
+    visibility: hidden;
+}
